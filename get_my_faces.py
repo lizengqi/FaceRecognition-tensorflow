@@ -4,7 +4,7 @@ import os
 import sys
 import random
 
-output_dir = './my_faces'
+output_dir = '/Users/lizengqi/Pictures/faceRecognition_tensorflow/my_faces'
 size = 64
 
 if not os.path.exists(output_dir):

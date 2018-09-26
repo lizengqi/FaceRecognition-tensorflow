@@ -6,8 +6,8 @@ import random
 import sys
 from sklearn.model_selection import train_test_split
 
-my_faces_path = './my_faces'
-other_faces_path = './other_faces'
+my_faces_path = '/Users/lizengqi/Pictures/faceRecognition_tensorflow/my_faces'
+other_faces_path = '/Users/lizengqi/Pictures/faceRecognition_tensorflow/other_faces'
 size = 64
 
 imgs = []

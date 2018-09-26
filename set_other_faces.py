@@ -4,8 +4,8 @@ import os
 import cv2
 import dlib
 
-input_dir = './input_img'
-output_dir = './other_faces'
+input_dir = '/Users/lizengqi/Pictures/faceRecognition_tensorflow/input_img'
+output_dir = '/Users/lizengqi/Pictures/faceRecognition_tensorflow/other_faces'
 size = 64
 
 if not os.path.exists(output_dir):
